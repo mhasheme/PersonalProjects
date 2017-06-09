@@ -44,6 +44,7 @@ namespace WebApplication1
             }
             else
             {
+                //Making some changes
                 app.UseExceptionHandler("/Home/Error");
             }
 
